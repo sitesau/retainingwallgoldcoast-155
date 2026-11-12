@@ -1,0 +1,22 @@
+{
+  "wheel_id": 878,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-155",
+  "project": "retaining-wall-contractors-gold-coast-red-flags-ddc9eeded8e5dca",
+  "parent_t1_ref": "retainingwallgoldcoast-011",
+  "node_role": "buffer",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining wall contractors gold coast red flags",
+  "intended_url": "https://sitesau.github.io/retainingwallgoldcoast-155/",
+  "tier": "T2",
+  "writeback_nonce": "112c15cea8975bdc",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-contractors-gold-coast-retainingwallgoldcoast-011/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
